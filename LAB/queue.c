@@ -1,4 +1,3 @@
-// C program to implement the queue data structure using linked list
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
